@@ -1,0 +1,19 @@
+{
+  "name": "todo-graphql-nodejs",
+  "version": "1.0.0",
+  "description": "A TODO application with NodeJS, GraphQL, MOngoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "graphql"
+  ],
+  "author": "Afroza Yasmin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
